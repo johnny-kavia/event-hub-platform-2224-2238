@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/code-generation/event-hub-platform-2224-2238/frontend_nextjs"
+}
